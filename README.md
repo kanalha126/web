@@ -1,1 +1,1 @@
-# web
+data:text/html,<!-- NazarSanji by www.1abzar.com ---> <script src="http://1abzar.ir/abzar/tools/poll/index.php?c=333333&w=200&h=200&n=6&bg=E2E2E2&tc=333333&tbg=FFFFFF&kc=BBBBBB&kadr=0&soal=نظر خود درباره برنامه&id=zun1h7iou2elxqh3l2yk&j1=⭐&j2=⭐⭐&j3=⭐⭐⭐&j4=⭐⭐⭐⭐&j5=⭐⭐⭐⭐⭐&j6=⭐⭐⭐⭐⭐⭐"></script><div style="display:none"><h3><a href="http://www.1abzar.com/abzar/nazarsanji.php">&#1575;&#1576;&#1586;&#1575;&#1585; &#1606;&#1592;&#1585; &#1587;&#1606;&#1580;&#1740;</a></h3></div> <!-- NazarSanji by www.1abzar.com --->
